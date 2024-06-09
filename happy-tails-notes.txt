@@ -1,0 +1,14 @@
+Happy Tails Notes
+
+Header image:
+1572px x 944px
+120ppi
+phone: Cantarell Light 36px
+phone blank space color: 
+
+Saturday 6/8/2024
+------------------
+Update website removing things that require a car, since now wheelchair bound
+Edit header image to make the font a littlke less heavu for the phone numbner
+Decide to redo the blank space for the phone number on xcf file
+
