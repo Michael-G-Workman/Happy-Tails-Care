@@ -4,7 +4,7 @@ Header image:
 1572px x 944px
 120ppi
 phone: Cantarell Light 36px
-phone blank space color: 
+phone blank space color: ccbaac
 
 Saturday 6/8/2024
 ------------------
