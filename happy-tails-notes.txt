@@ -12,3 +12,6 @@ Update website removing things that require a car, since now wheelchair bound
 Edit header image to make the font a littlke less heavu for the phone numbner
 Decide to redo the blank space for the phone number on xcf file
 
+Thursday, June 20, 2024
+-----------------------
+Added usn image below bio paragraph, updated address to Titusville, updated vet visits not available
